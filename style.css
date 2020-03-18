@@ -1,0 +1,26 @@
+body {
+	background: url(car.jpg);
+	background-size: cover;
+}
+.tabBlok {
+	background: transparent;
+	max-width: 250px;
+	height: 50px;
+	overflow: hidden;
+}
+.dgClock {
+	font-family: tahoma;
+	font-size: 60px;
+	color: rgb(32, 117, 103);
+	font-weight: bold;
+}
+.hour {
+	font-family: tahoma;
+	font-size: 38px;
+	font-weight: bold;
+	color: rgb(255, 251, 4);
+	padding: 5px 15px 5px 20px;
+}
+.floor {
+	padding: 10px;
+}
